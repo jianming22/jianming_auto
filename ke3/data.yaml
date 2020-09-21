@@ -1,0 +1,7 @@
+test_adduser_params:
+ -  username: admin1
+    password: "123456"
+ -  username: admin2
+    password: "123456"
+ -  username: admin3
+    password: "123456"

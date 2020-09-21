@@ -1,0 +1,10 @@
+#注册用户
+test_adduser_params:
+  -  username: admin
+     password: 123456
+  -  username: ""
+     password: 123456
+#用例描述
+userdecrition:
+  aaa,
+  bbb
