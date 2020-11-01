@@ -18,6 +18,10 @@
 #     print(w)
 #     return
 # dir(4,2)
-a = "1234567891346984233333333"
-b = a[3:-1]
-print(b)
+# a = "1234567891346984233333333"
+# b = a[3:-1]
+# print(b)
+
+import time
+ye = time.strftime("%Y-%m-%d %H:%M:%S %a")
+print(ye)
